@@ -11,7 +11,10 @@ We designed a turn based action system where attacking players setup a sequence 
 The defense then has the opportunity to sabotage their sequence by playing trap cards to influence or negate their actions.
 The board is stuffed with terminals players can interact with to recieve new cards and enhancements, and traps they must avoid if they hope to get out in one piece.
 
-![Image 1](https://media.discordapp.net/attachments/1084841082963103854/1084877605779554457/Picsart_23-03-13_17-20-12-018.jpg?width=1431&height=656)
+<p float="left">
+  <img src="https://media.discordapp.net/attachments/1079702331366588486/1084879289029234778/20230305_162539.jpg?width=400&height=225"/>
+  <img src="https://media.discordapp.net/attachments/1079702331366588486/1084879288190373918/20230305_164659.jpg?width=400&height=225"/>
+</p>
 
 We have gotten a lot of positive reviews during open playtesting with the other teams, so now we are looking forward to finalize and produce this game !
 In the meantime if you're interested, you can follow our adventures [here.](https://puffy-coffee-24a.notion.site/Future-Ca-Public-Homepage-6ee9fb8307b748a58fce72e94c3d7cca)!
